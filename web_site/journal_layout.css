@@ -1,0 +1,40 @@
+
+
+body {
+	background-image: url(https://image.freepik.com/free-vector/stylish-hexagonal-line-pattern-background_1017-19742.jpg);
+}
+
+.container{
+	background-color: white;
+	margin: 10px 10%;
+	padding: 24px;
+}
+
+
+
+.main {
+    width: 70%;
+}
+
+.sidebar {
+    margin-top: 10px;
+    padding: 24px;
+    width: 25%;
+    background-color: #E8DBBF;
+}
+
+.card{
+	background-color: white;
+	padding: 12px;
+	margin-top: 10px;
+}
+
+#top-nav {
+    padding: 12px;
+    text-align: right;
+}
+
+.card-content {
+    display: flex;
+    align-content: flex-end;
+}
